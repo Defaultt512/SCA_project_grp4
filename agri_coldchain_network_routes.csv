@@ -1,0 +1,73 @@
+Echelon,Origin_ID,Origin_Name,Destination_ID,Destination_Name,Distance_km,Transit_Time_Hrs,Ambient_Freight_INR_MT,Reefer_Freight_INR_MT,Ambient_Transit_Loss_Pct,Reefer_Transit_Loss_Pct
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH01,Ozarkhed Packhouse Hub (Nashik),28,1.94,298.0,422.0,0.03,0.0091
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH02,Chakan-Narayangaon Agro Hub (Pune North),165,5.54,873.0,1217.0,0.0547,0.0146
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH03,Karad-Satara Integrated Packhouse,330,9.88,1566.0,2174.0,0.0844,0.0212
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH04,Kagal-Kolhapur Cold Chain Park,445,12.91,2049.0,2841.0,0.1051,0.0258
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH05,Belagavi-Kittur Border Logistics Hub,550,15.67,2490.0,3450.0,0.124,0.03
+First_Mile_Farm_to_Packhouse,FC01,Nashik (Pimpalgaon),PH06,Hoskote-Kolar Mega Packhouse,980,26.99,4296.0,5944.0,0.18,0.0472
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH01,Ozarkhed Packhouse Hub (Nashik),140,4.88,768.0,1072.0,0.0502,0.0136
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH02,Chakan-Narayangaon Agro Hub (Pune North),35,2.12,327.0,463.0,0.0313,0.0094
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH03,Karad-Satara Integrated Packhouse,195,6.33,999.0,1391.0,0.0601,0.0158
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH04,Kagal-Kolhapur Cold Chain Park,310,9.36,1482.0,2058.0,0.0808,0.0204
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH05,Belagavi-Kittur Border Logistics Hub,415,12.12,1923.0,2667.0,0.0997,0.0246
+First_Mile_Farm_to_Packhouse,FC02,Narayangaon (Junner),PH06,Hoskote-Kolar Mega Packhouse,855,23.7,3771.0,5219.0,0.1789,0.0422
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH01,Ozarkhed Packhouse Hub (Nashik),320,9.62,1524.0,2116.0,0.0826,0.0208
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH02,Chakan-Narayangaon Agro Hub (Pune North),145,5.02,789.0,1101.0,0.0511,0.0138
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH03,Karad-Satara Integrated Packhouse,32,2.04,314.0,446.0,0.0308,0.0093
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH04,Kagal-Kolhapur Cold Chain Park,125,4.49,705.0,985.0,0.0475,0.013
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH05,Belagavi-Kittur Border Logistics Hub,235,7.38,1167.0,1623.0,0.0673,0.0174
+First_Mile_Farm_to_Packhouse,FC03,Satara (Wai-Karad),PH06,Hoskote-Kolar Mega Packhouse,680,19.09,3036.0,4204.0,0.1474,0.0352
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH01,Ozarkhed Packhouse Hub (Nashik),390,11.46,1818.0,2522.0,0.0952,0.0236
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH02,Chakan-Narayangaon Agro Hub (Pune North),230,7.25,1146.0,1594.0,0.0664,0.0172
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH03,Karad-Satara Integrated Packhouse,75,3.17,495.0,695.0,0.0385,0.011
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH04,Kagal-Kolhapur Cold Chain Park,55,2.65,411.0,579.0,0.0349,0.0102
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH05,Belagavi-Kittur Border Logistics Hub,155,5.28,831.0,1159.0,0.0529,0.0142
+First_Mile_Farm_to_Packhouse,FC04,Sangli (Miraj-Tasgaon),PH06,Hoskote-Kolar Mega Packhouse,615,17.38,2763.0,3827.0,0.1357,0.0326
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH01,Ozarkhed Packhouse Hub (Nashik),435,12.65,2007.0,2783.0,0.1033,0.0254
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH02,Chakan-Narayangaon Agro Hub (Pune North),265,8.17,1293.0,1797.0,0.0727,0.0186
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH03,Karad-Satara Integrated Packhouse,115,4.23,663.0,927.0,0.0457,0.0126
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH04,Kagal-Kolhapur Cold Chain Park,24,1.83,281.0,399.0,0.0293,0.009
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH05,Belagavi-Kittur Border Logistics Hub,115,4.23,663.0,927.0,0.0457,0.0126
+First_Mile_Farm_to_Packhouse,FC05,Kolhapur (Shirol),PH06,Hoskote-Kolar Mega Packhouse,590,16.73,2658.0,3682.0,0.1312,0.0316
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH01,Ozarkhed Packhouse Hub (Nashik),540,15.41,2448.0,3392.0,0.1222,0.0296
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH02,Chakan-Narayangaon Agro Hub (Pune North),370,10.94,1734.0,2406.0,0.0916,0.0228
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH03,Karad-Satara Integrated Packhouse,225,7.12,1125.0,1565.0,0.0655,0.017
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH04,Kagal-Kolhapur Cold Chain Park,110,4.09,642.0,898.0,0.0448,0.0124
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH05,Belagavi-Kittur Border Logistics Hub,26,1.88,289.0,411.0,0.0297,0.009
+First_Mile_Farm_to_Packhouse,FC06,Belagavi (Gokak),PH06,Hoskote-Kolar Mega Packhouse,495,14.23,2259.0,3131.0,0.1141,0.0278
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH01,Ozarkhed Packhouse Hub (Nashik),615,17.38,2763.0,3827.0,0.1357,0.0326
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH02,Chakan-Narayangaon Agro Hub (Pune North),445,12.91,2049.0,2841.0,0.1051,0.0258
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH03,Karad-Satara Integrated Packhouse,300,9.09,1440.0,2000.0,0.079,0.02
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH04,Kagal-Kolhapur Cold Chain Park,185,6.07,957.0,1333.0,0.0583,0.0154
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH05,Belagavi-Kittur Border Logistics Hub,78,3.25,508.0,712.0,0.039,0.0111
+First_Mile_Farm_to_Packhouse,FC07,Dharwad (Hubballi),PH06,Hoskote-Kolar Mega Packhouse,415,12.12,1923.0,2667.0,0.0997,0.0246
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH01,Ozarkhed Packhouse Hub (Nashik),1010,27.78,4422.0,6118.0,0.18,0.0484
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH02,Chakan-Narayangaon Agro Hub (Pune North),875,24.23,3855.0,5335.0,0.18,0.043
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH03,Karad-Satara Integrated Packhouse,715,20.02,3183.0,4407.0,0.1537,0.0366
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH04,Kagal-Kolhapur Cold Chain Park,615,17.38,2763.0,3827.0,0.1357,0.0326
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH05,Belagavi-Kittur Border Logistics Hub,520,14.88,2364.0,3276.0,0.1186,0.0288
+First_Mile_Farm_to_Packhouse,FC08,Kolar (Mulbagal),PH06,Hoskote-Kolar Mega Packhouse,38,2.2,340.0,480.0,0.0318,0.0095
+Line_Haul_Packhouse_to_Hub,PH01,Ozarkhed Packhouse Hub (Nashik),DH01,Mumbai Metro DC (Vashi / Bhiwandi),175,5.3,850.0,1212.0,0.06,0.0151
+Line_Haul_Packhouse_to_Hub,PH01,Ozarkhed Packhouse Hub (Nashik),DH02,Pune Metro DC (Marketyard / Wagholi),210,6.07,976.0,1391.0,0.0656,0.0163
+Line_Haul_Packhouse_to_Hub,PH01,Ozarkhed Packhouse Hub (Nashik),DH03,Goa Coastal Hub (Panaji / Margao / Ponda),660,15.85,2596.0,3686.0,0.1376,0.0321
+Line_Haul_Packhouse_to_Hub,PH01,Ozarkhed Packhouse Hub (Nashik),DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),1020,23.67,3892.0,5522.0,0.1952,0.0447
+Line_Haul_Packhouse_to_Hub,PH02,Chakan-Narayangaon Agro Hub (Pune North),DH01,Mumbai Metro DC (Vashi / Bhiwandi),155,4.87,778.0,1110.0,0.0568,0.0144
+Line_Haul_Packhouse_to_Hub,PH02,Chakan-Narayangaon Agro Hub (Pune North),DH02,Pune Metro DC (Marketyard / Wagholi),42,2.41,371.0,534.0,0.0387,0.0105
+Line_Haul_Packhouse_to_Hub,PH02,Chakan-Narayangaon Agro Hub (Pune North),DH03,Goa Coastal Hub (Panaji / Margao / Ponda),490,12.15,1984.0,2819.0,0.1104,0.0261
+Line_Haul_Packhouse_to_Hub,PH02,Chakan-Narayangaon Agro Hub (Pune North),DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),860,20.2,3316.0,4706.0,0.1696,0.0391
+Line_Haul_Packhouse_to_Hub,PH03,Karad-Satara Integrated Packhouse,DH01,Mumbai Metro DC (Vashi / Bhiwandi),290,7.8,1264.0,1799.0,0.0784,0.0192
+Line_Haul_Packhouse_to_Hub,PH03,Karad-Satara Integrated Packhouse,DH02,Pune Metro DC (Marketyard / Wagholi),150,4.76,760.0,1085.0,0.056,0.0142
+Line_Haul_Packhouse_to_Hub,PH03,Karad-Satara Integrated Packhouse,DH03,Goa Coastal Hub (Panaji / Margao / Ponda),335,8.78,1426.0,2028.0,0.0856,0.0207
+Line_Haul_Packhouse_to_Hub,PH03,Karad-Satara Integrated Packhouse,DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),695,16.61,2722.0,3864.0,0.1432,0.0333
+Line_Haul_Packhouse_to_Hub,PH04,Kagal-Kolhapur Cold Chain Park,DH01,Mumbai Metro DC (Vashi / Bhiwandi),385,9.87,1606.0,2284.0,0.0936,0.0225
+Line_Haul_Packhouse_to_Hub,PH04,Kagal-Kolhapur Cold Chain Park,DH02,Pune Metro DC (Marketyard / Wagholi),240,6.72,1084.0,1544.0,0.0704,0.0174
+Line_Haul_Packhouse_to_Hub,PH04,Kagal-Kolhapur Cold Chain Park,DH03,Goa Coastal Hub (Panaji / Margao / Ponda),215,6.17,994.0,1416.0,0.0664,0.0165
+Line_Haul_Packhouse_to_Hub,PH04,Kagal-Kolhapur Cold Chain Park,DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),595,14.43,2362.0,3354.0,0.1272,0.0298
+Line_Haul_Packhouse_to_Hub,PH05,Belagavi-Kittur Border Logistics Hub,DH01,Mumbai Metro DC (Vashi / Bhiwandi),490,12.15,1984.0,2819.0,0.1104,0.0261
+Line_Haul_Packhouse_to_Hub,PH05,Belagavi-Kittur Border Logistics Hub,DH02,Pune Metro DC (Marketyard / Wagholi),345,9.0,1462.0,2080.0,0.0872,0.0211
+Line_Haul_Packhouse_to_Hub,PH05,Belagavi-Kittur Border Logistics Hub,DH03,Goa Coastal Hub (Panaji / Margao / Ponda),145,4.65,742.0,1060.0,0.0552,0.0141
+Line_Haul_Packhouse_to_Hub,PH05,Belagavi-Kittur Border Logistics Hub,DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),485,12.04,1966.0,2794.0,0.1096,0.026
+Line_Haul_Packhouse_to_Hub,PH06,Hoskote-Kolar Mega Packhouse,DH01,Mumbai Metro DC (Vashi / Bhiwandi),995,23.13,3802.0,5394.0,0.1912,0.0438
+Line_Haul_Packhouse_to_Hub,PH06,Hoskote-Kolar Mega Packhouse,DH02,Pune Metro DC (Marketyard / Wagholi),855,20.09,3298.0,4680.0,0.1688,0.0389
+Line_Haul_Packhouse_to_Hub,PH06,Hoskote-Kolar Mega Packhouse,DH03,Goa Coastal Hub (Panaji / Margao / Ponda),615,14.87,2434.0,3456.0,0.1304,0.0305
+Line_Haul_Packhouse_to_Hub,PH06,Hoskote-Kolar Mega Packhouse,DH04,Bengaluru Metro DC (Yeshwanthpur / Whitefield),45,2.48,382.0,550.0,0.0392,0.0106
