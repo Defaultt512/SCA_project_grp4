@@ -1,3 +1,5 @@
+# CELL 4: Write the Complete Interactive Web Application (app.py)
+%%writefile app.py
 import os
 import math
 import numpy as np
